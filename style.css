@@ -170,3 +170,14 @@ button {
     justify-content: center;
     align-items: flex-end;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    color: #E5E7EB;
+
+}
