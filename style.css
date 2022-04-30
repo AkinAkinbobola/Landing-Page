@@ -133,3 +133,40 @@ button {
 .quoter{
     font-weight: 900;
 }
+
+.blue-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+.action {
+    display: flex;
+    background-color: #3882F6;
+    padding: 60px 150px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-text {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: 900;
+}
+
+.action-left {
+    margin-right: 300px;
+}
+.action-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 5px 15px;
+    border: 0;
+    border-radius: 8px;
+    border: 2px white solid;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
